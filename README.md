@@ -1,2 +1,2 @@
-# serratec
+# serratec - portugol
 estudos serratec
